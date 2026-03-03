@@ -1,0 +1,10 @@
+{
+  "allowed_hwid": [
+    "ABC123XYZ",
+    "GAY-A-XXXX"
+  ],
+  "blocked_mods": [
+    "BadMod.jar",
+    "XrayHack.jar"
+  ]
+}
