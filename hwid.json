@@ -1,10 +1,10 @@
 {
   "allowed_hwid": [
-    "ABC123XYZ",
+    "9b61ebe58304",
     "GAY-A-XXXX"
   ],
   "blocked_mods": [
-    "BadMod.jar",
+    "PixelConnectCore-1.16.5-1.0.0.jar",
     "XrayHack.jar"
   ]
 }
