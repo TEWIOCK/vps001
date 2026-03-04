@@ -1,0 +1,10 @@
+{
+  "allowed_hwid": [
+    "75ae32b6ca8c",
+    "e19f29f0f42e"
+  ],
+  "blocked_mods": [
+    "PixelConnectCore-1.16.5-1.0.0.jar",
+    "XrayHack.jar"
+  ]
+}
